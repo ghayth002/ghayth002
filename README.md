@@ -4,7 +4,7 @@
 <img align="right" alt="Coding"width"400" src="https://miro.medium.com/v2/resize:fit:679/0*U4QuXlAS7XKvhyFh.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghayth002&label=Profile%20views&color=0e75b6&style=flat" alt="ghayth002" /> </p>
 
-- 🌱 I’m currently learning **symfony,java,flutterflow.**
+- 🌱 I’m currently learning **Spring Boot,Angular,Boostrap.**
 
 - 💬 Ask me about **java,c++,c,java script,css,html,symfony...**
 
