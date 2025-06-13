@@ -134,11 +134,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghayth002&show_icons=true&locale=en&layout=compact" alt="ghayth002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghayth002&show_icons=true&locale=en" alt="ghayth002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghayth002&" alt="ghayth002" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ghayth002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ghayth002&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghayth002/ghayth002/output/github-snake-dark.svg" />
