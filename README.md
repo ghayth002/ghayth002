@@ -4,7 +4,7 @@
 <img align="right" alt="Coding"width"400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZhbzFlOTZuZnFxZDNwbWUzc2ZkNDJvMHBzZzR4djlhMjc5eGZ2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghayth002&label=Profile%20views&color=0e75b6&style=flat" alt="ghayth002" /> </p>
 
-- 🌱 I’m currently learning **.Net,React,Tailwind,NodeJs.**
+- 🌱 I’m currently learning **Flutter,Dart.**
 
 - 💬 Ask me about **java,c++,c,java script,css,html,symfony,SpringBoot,Angular...**
 
