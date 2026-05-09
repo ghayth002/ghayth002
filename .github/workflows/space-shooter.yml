@@ -26,7 +26,11 @@ jobs:
         with:
           fetch-depth: 2
 
-      # Step 2: Generate the Space Shooter GIF
+      # Step 2: Create output directory
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      # Step 3: Generate the Space Shooter GIF
       - name: Generate Space Shooter Animation
         uses: czl9707/gh-space-shooter@v2
         with:
