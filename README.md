@@ -2,7 +2,9 @@
 <!--                         HEADER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=260&section=header&text=Ghayth%20Weslati&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=48&desc=💻%20Software%20Engineering%20Student%20%40%20ESPRIT%20%7C%20Tunisia%20🇹🇳&descAlignY=68&descAlign=50&descSize=19" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ghayth%20Weslati&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=💻%20Full-Stack%20Developer%20%7C%20ESPRIT%20Student%20%7C%20Tunisia%20🇹🇳&descAlignY=78&descAlign=50&descSize=18" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED INTRO                             -->
